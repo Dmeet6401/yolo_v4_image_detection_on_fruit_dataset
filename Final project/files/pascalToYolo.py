@@ -1,3 +1,5 @@
+#use this file and upload it to where your train test data available and then change basic requirements in the code
+
 import glob
 import os
 import pickle
