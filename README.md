@@ -1,5 +1,5 @@
 # yolo_v4_image_detection_on_fruit_dataset
-##Full setup 
+## Full setup 
 ## Changes needs to be done before training model
 after downloading the darknet check .cfg (CONFIG) file in which do changes as mentioned below
 1) Change batch to 64 and subdivisiont to 16(if not works than 64)
